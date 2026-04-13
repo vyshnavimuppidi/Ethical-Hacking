@@ -44,3 +44,4 @@ Common Reasons for the Existence of Vulnerabilities
 ▪ Intentional end-user acts: Ex-employees who continue to have access to shared drives can misuse them by revealing the company’s sensitive information. Such an act is called an intentional end-user act and can lead to heavy data and financial losses for the company.
 Examples of Vulnerabilities 
 The following tables summarize examples of technological and configuration vulnerabilities:
+
